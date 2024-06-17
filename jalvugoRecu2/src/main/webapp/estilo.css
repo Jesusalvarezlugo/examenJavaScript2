@@ -1,0 +1,20 @@
+table,tr,th,td{
+	border:solid 1px;
+	border-color:blue;
+}
+
+h2{
+	color:blue;
+}
+
+footer{
+	background-color:black;
+}
+
+#pie{
+	color:white;
+}
+
+header{
+	text-align:center;
+}
